@@ -1,5 +1,4 @@
-# Coursera_Capstone
-Coursera_Capstone_Project
+# Coursera Capstone Project
 
 # Introduction
 
